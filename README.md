@@ -77,12 +77,6 @@ g++ main.cpp -o traffic -lGL -lGLU -lglut
 
 ---
 
-## 📷 Screenshot
-
-> *Add a screenshot or GIF of your running project here if available*
-
----
-
 ## 👨‍💻 Author
 
 **Aditya Dev**
@@ -96,6 +90,3 @@ g++ main.cpp -o traffic -lGL -lGLU -lglut
 This project is licensed under the **MIT License**.
 You are free to use, modify, and share this project for learning or demonstration purposes.
 
-```
-
-```
